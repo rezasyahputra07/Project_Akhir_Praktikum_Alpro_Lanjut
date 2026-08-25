@@ -19,12 +19,14 @@ Sistem Manajemen Kapal Kargo dan Kontainer berbasis C++ untuk mengelola, mencari
 
 🚀 Cara Menjalankan Program
 1.  Clone repositori ini:
-
+   
 git clone [https://github.com/rezasyahputra07/Project_Akhir_Praktikum_Alpro_Lanjut.git](https://github.com/rezasyahputra07/Project_Akhir_Praktikum_Alpro_Lanjut.git)
 
-2. Masuk ke direktori proyek:
+3. Masuk ke direktori proyek:
+   
    cd Project_Akhir_Praktikum_Alpro_Lanjut
 
-3. jalankan program:
+5. jalankan program:
+   
    g++ Project_Kelompok-4.cpp -o main
 ./main 
