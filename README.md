@@ -22,11 +22,11 @@ Sistem Manajemen Kapal Kargo dan Kontainer berbasis C++ untuk mengelola, mencari
    ```bash
 git clone [https://github.com/rezasyahputra07/Project_Akhir_Praktikum_Alpro_Lanjut.git](https://github.com/rezasyahputra07/Project_Akhir_Praktikum_Alpro_Lanjut.git)
 ```
-3. Masuk ke direktori proyek:
+2. Masuk ke direktori proyek:
    ```bash
    cd Project_Akhir_Praktikum_Alpro_Lanjut
 
-5. jalankan program:
+3. jalankan program:
    ```bash
    g++ Project_Kelompok-4.cpp -o main
    ./main
